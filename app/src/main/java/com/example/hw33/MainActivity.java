@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void LoadData() {
 
-        names.add(new Model(R.drawable.ic_circle, "Sagynaly \n 0555806961"));
+        names.add(new Model(R.drawable.ic_circle, "Rasul \n 0774881885"));
+        names.add(new Model(R.drawable.ic_circle, "Rasul \n 0774881885"));
+        names.add(new Model(R.drawable.ic_circle, "Rasul \n 0774881885"));
+        names.add(new Model(R.drawable.ic_circle, "Rasul \n 0774881885"));
+        names.add(new Model(R.drawable.ic_circle, "Rasul \n 0774881885"));
     }
 }
